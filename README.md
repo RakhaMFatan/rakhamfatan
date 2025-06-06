@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Everyone, My Name Is Rakha  👋
 
 <!--
 **RakhaMFatan/rakhamfatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![hai saya rakha](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmg1eDl6dnY3Y2RkbmN0cDJzMGtuZnZ1NmJlYng0ZWg1MzhtZ2JjcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7bu6KDIpS4OFRP6o/giphy.gif)
