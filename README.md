@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ##### My Github Stats
 
 
-![rakhamfatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakhamfatan)
+![Rakha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakhamfatan&show_icons=true&theme=darcula)
 
 
 <hr>
