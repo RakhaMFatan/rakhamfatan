@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <p>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,php,vscode,laravel,mysql&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,php,vscode,laravel,mysql&theme=dark" alt="My Skills" />
 </a>
 </p>
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ##### My Github Stats
 
 
-![Rakha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakhamfatan&show_icons=true&theme=darcula)
+![Rakha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakhamfatan&show_icons=true&theme=city_lights)
 
 
 <hr>
