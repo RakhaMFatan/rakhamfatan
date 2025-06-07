@@ -1,4 +1,14 @@
-![Rakha Muhamad Fatan](/img/github-header-image.png)
+<div align="center">
+
+![rakhamfatan](/img/github-header-image.png)
+
+##### About Me
+🧠 I am currently learning HTML, CSS, JavaScript, PHP, Laravel, etc. 
+Always open to learning something new!
+
+</div>
+
+<hr>
 
 <!--
 **RakhaMFatan/rakhamfatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +25,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##### My Skill
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,figma,vscode,laravel,mysql)](https://skillicons.dev)
+<p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,php,vscode,laravel,mysql&theme=dark" alt="My Skills" />
+</a>
+</p>
+
+<hr>
+
+##### Connect With Me
+
+[![My Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rkhamf_/)
+
+<hr>
+
+##### My Github Stats
 
 
+[![rakhamfatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakhamfatan)]
+
+
+<hr>
