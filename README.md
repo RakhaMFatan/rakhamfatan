@@ -1,4 +1,4 @@
-## Hello Everyone, My Name Is Rakha  👋
+![Rakha Muhamad Fatan](/img/github-header-image.png)
 
 <!--
 **RakhaMFatan/rakhamfatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![hai saya rakha](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmg1eDl6dnY3Y2RkbmN0cDJzMGtuZnZ1NmJlYng0ZWg1MzhtZ2JjcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7bu6KDIpS4OFRP6o/giphy.gif)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,figma,vscode,laravel,mysql)](https://skillicons.dev)
+
+
