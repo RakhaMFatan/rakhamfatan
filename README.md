@@ -35,17 +35,22 @@ Here are some ideas to get you started:
 
 <hr>
 
-#### Connect With Me
+#### 🌐 Social Media
 
 [![My Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rkhamf_/)
 
 <hr>
 
-#### My Github Stats
+#### 📊 My Github Stats
 
+<center>
 
-![Rakha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakhamfatan&show_icons=true&theme=city_lights)
+![Rakha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakhamfatan&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhamfatan&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rakhamfatan&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhamfatan&layout=compact&theme=dark)
+
+</center>
 
 <hr>
