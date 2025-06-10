@@ -2,7 +2,7 @@
 
 ![rakhamfatan](/img/github-header-image.png)
 
-##### About Me
+#### About Me
 🧠 I am currently learning HTML, CSS, JavaScript, PHP, Laravel, etc. 
 Always open to learning something new!
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### My Skill
+#### My Skill
 
 <p>
 <a href="https://skillicons.dev">
@@ -35,16 +35,17 @@ Here are some ideas to get you started:
 
 <hr>
 
-##### Connect With Me
+#### Connect With Me
 
 [![My Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rkhamf_/)
 
 <hr>
 
-##### My Github Stats
+#### My Github Stats
 
 
 ![Rakha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakhamfatan&show_icons=true&theme=city_lights)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhamfatan&layout=compact)
 
 <hr>
