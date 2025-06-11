@@ -46,12 +46,13 @@ Here are some ideas to get you started:
 
 <details><summary>📊 My Github Stats</summary>
 
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhamfatan&layout=compact&theme=dark)
 
 ![Rakha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakhamfatan&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rakhamfatan&theme=dark)
-
 
 
 </details>
