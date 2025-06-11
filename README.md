@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <p>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,php,vscode,laravel,mysql&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,php,vscode,laravel,wordpress,mysql&theme=dark" alt="My Skills" />
 </a>
 </p>
 
@@ -41,16 +41,19 @@ Here are some ideas to get you started:
 
 <hr>
 
-### 📊 My Github Stats
+### 
 
-<center>
+
+<details><summary>📊 My Github Stats</summary>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhamfatan&layout=compact&theme=dark)
 
 ![Rakha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakhamfatan&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rakhamfatan&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhamfatan&layout=compact&theme=dark)
 
-</center>
+
+</details>
 
 <hr>
