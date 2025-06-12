@@ -35,18 +35,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### 🌐 Social Media
-
-[![My Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rkhamf_/)
-
-<hr>
-
-### 
-
-
-<details><summary>📊 My Github Stats</summary>
-
-<br>
+### 📊 My Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhamfatan&layout=compact&theme=dark)
 
@@ -54,6 +43,13 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rakhamfatan&theme=dark)
 
+
+
+<details><summary>🌐 Social Media</summary>
+
+<br>
+
+[![My Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rkhamf_/)
 
 </details>
 
