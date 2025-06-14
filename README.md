@@ -4,9 +4,6 @@
 
 <br>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=rakhamfatan&color=blue)
-
-
 ### About Me
 🧠 I am currently learning HTML, CSS, JavaScript, PHP, Laravel, etc. 
 Always open to learning something new!
@@ -57,5 +54,11 @@ Here are some ideas to get you started:
 [![My Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rkhamf_/)
 
 </details>
+
+<hr>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=rakhamfatan&style=plastic" alt="Visitor Count"/>
+</p>
 
 <hr>
