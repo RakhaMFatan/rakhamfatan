@@ -2,7 +2,6 @@
 
 ![rakhamfatan](/img/github-header-image.png)
 
-<br>
 
 ### About Me
 🧠 I am currently learning HTML, CSS, JavaScript, PHP, Laravel, etc. 
@@ -60,5 +59,3 @@ Here are some ideas to get you started:
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=rakhamfatan&style=plastic" alt="Visitor Count"/>
 </p>
-
-<hr>
