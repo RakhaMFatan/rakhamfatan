@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <p>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,php,vscode,laravel,wordpress,mysql&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,vscode,laravel,figma,mysql,wordpress&theme=dark" alt="My Skills" />
 </a>
 </p>
 
