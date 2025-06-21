@@ -6,8 +6,8 @@
 
 
 ### About Me
-🧠 I am currently learning HTML, CSS, JavaScript, PHP, Laravel, etc. 
-Always open to learning something new!
+🧠 Saat ini saya sedang belajar HTML, CSS, JavaScript, PHP, Laravel, dll.
+Selalu terbuka untuk mempelajari sesuatu yang baru!
 
 </div>
 
