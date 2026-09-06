@@ -38,3 +38,9 @@ Here are some ideas to get you started:
 
 <hr>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakhamfatan&style=plastic" alt="Visitor Count"/>
+</p>
+
+<hr>
+
