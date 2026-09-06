@@ -38,13 +38,3 @@ Here are some ideas to get you started:
 
 <hr>
 
-<details><summary> 🌐 Social Media</summary>
-
-<br>
-
-[![My Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rkhamf_/)
-
-</details>
-
-<hr>
-
